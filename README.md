@@ -70,6 +70,7 @@
 
 ## 🌐 Connect With Me
 - 📧 **Email:** jagadeeshabommala@gmail.com  
-- 🔗 **GitHub:** [https://github.com/BOMMALAJAGADEESHA](https://github.com/BOMMALAJAGADEESHA)  
+- 🔗 **GitHub:** [https://github.com/BOMMALAJAGADEESHA](https://github.com/BOMMALAJAGADEESHA)
+- 🔗 **LinkedIn**: linkedin.com/in/jagadeeshabommala 
 
 ---
