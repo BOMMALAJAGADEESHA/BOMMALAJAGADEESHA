@@ -1,76 +1,97 @@
-# 👋 Hi, I'm Bommala Jagadeesha  
-**Fresher | Cloud | AI/ML | Data Science **
+# 👋 Hi, I'm **Bommala Jagadeesha**  
+🎓 **B.Tech in CSE (AI & ML)** | ☁️ **AWS Cloud | 🤖 AI/ML | 📊 Data Science**  
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech in CSE (AI/ML) | CGPA 8.39  
-- 📚 Currently undergoing **AWS re/Start training from April 7, 2025 to July 25, 2025** through Tech Mahindra Foundation  
-- 🔍 Interested in **Cloud, AI/ML and Data Science**  
-- 🌱 Continuously learning through hands-on projects and certifications
+## 🚀 About Me  
+- 🧠 Passionate about **AI/ML and Cloud Computing**  
+- 🎓 B.Tech graduate from **Kakatiya Institute of Technology & Science, Warangal** (CGPA: 8.39/10)  
+- ☁️ Currently undergoing **AWS re/Start training (Tech Mahindra Foundation)**  
+- 💡 Constant learner, exploring **data-driven and cloud-based intelligent solutions**  
+- 📍 Based in Hyderabad, Telangana  
 
 ---
 
 ## 🛠️ Technical Skills
 
-### ☁️ Cloud Technologies
-- **AWS:** EC2, S3, VPC, IAM, CloudWatch
-- Basic Azure concepts
+### ☁️ Cloud Technologies  
+- **AWS:** EC2, S3, VPC, IAM, CloudWatch  
+- Basic knowledge of **Azure**
 
-### 💻 Programming Languages
-- Python, Java, C
+### 💻 Programming Languages  
+- Python 🐍 | Java ☕ | C  
 
-### 🤖 Machine Learning
-- TensorFlow, Keras, scikit-learn
-- Deep Learning: CNN, RNN, Neural Networks
+### 🤖 Machine Learning  
+- TensorFlow | Keras | scikit-learn  
+- CNN | RNN | Neural Networks | OpenCV  
 
-### 📊 Data Analytics
-- SQL, Pandas, NumPy, Matplotlib
-- Exploratory Data Analysis (EDA)
+### 📊 Data Analytics  
+- SQL | Pandas | NumPy | Matplotlib | EDA  
 
-### 🛠 Tools
-- Git, Linux, OpenCV
+### 🧰 Tools  
+- Git | Linux | VS Code | Jupyter  
 
 ---
 
 ## 📂 Projects
 
-### 🚦 Traffic Sign Detection (ResNet - 97% Accuracy)
-- Developed using ResNet CNN on GTSRB dataset (32,635 images)
-- Pre-processed data for lighting, weather, angle variations
-- Focused on safety-critical accuracy and real-world performance
+### 🚦 Traffic Sign Detection (ResNet – 97% Accuracy)
+- Built with **ResNet CNN** on **GTSRB dataset (32,635 images)**  
+- Focused on real-world detection under varied lighting/weather  
+- Tech: Python, TensorFlow, Keras, OpenCV  
 
-### 👥 Attendance System with Face Recognition (OpenCV - 96% Accuracy)
-- Built using Haar-Cascade, OpenCV
-- Integrated webcam for real-time attendance tracking
-- Automated attendance reports for efficiency
+### 👥 Attendance System with Face Recognition (OpenCV – 96% Accuracy)
+- Developed real-time **face recognition attendance** system  
+- Used **Haar Cascade + OpenCV**  
+- Automated attendance report generation  
+
+---
+
+## 💼 Internships
+
+**🔹 Cisco Networking Academy – Virtual Internship (Jun–Aug 2023)**  
+- Configured routers/switches using Cisco Packet Tracer  
+- Learned core networking & cybersecurity principles  
+
+**🔹 3Cortex – Data Science & Cloud Solutions (Jul–Aug 2022)**  
+- Worked with Python for data forecasting and AWS deployment  
 
 ---
 
 ## 🏆 Certifications
-- Cisco Networking Academy - Cybersecurity
-- NPTEL - Introduction to Machine Learning
-- Wipro TalentNext - Java Full Stack Development
-- 3Cortex - Data Science & Cloud Solutions
+- 🟢 **AWS re/Start Cloud Computing Program – Tech Mahindra Foundation**  
+- 🟢 **Java Full Stack Development – Wipro TalentNext**  
+- 🟢 **Introduction to Machine Learning – NPTEL**  
+- 🟢 **Cisco Networking Academy – Cybersecurity**  
 
 ---
 
-## 🏅 Achievements & Activities
-- Finalist at **Sumshodhini 2022** (AI/ML Quiz Competition)
-- Participated in **Cisco NetAcad Learnathon 2021** (Cybersecurity)
-- Led team for major AI/ML academic projects
+## 🎯 Strengths  
+- Team Motivation & Mentorship  
+- Problem-Solving & Logical Thinking  
+- Effective Communication  
+- Strong Work Ethics  
 
 ---
 
-## 📊 GitHub Stats
-![Jagadeesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOMMALAJAGADEESHA&show_icons=true&theme=radical)
+## 🏅 Achievements
+- 🥈 Finalist at **Sumshodhini 2022** (AI/ML Quiz Competition)  
+- 💻 Participant in **Cisco NetAcad Learnathon 2021** (Cybersecurity)  
+- 🤝 Led team for major AI/ML academic projects  
+
+---
+
+## 📊 GitHub Stats  
+![Jagadeesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOMMALAJAGADEESHA&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOMMALAJAGADEESHA&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect With Me
-- 📧 **Email:** jagadeeshabommala@gmail.com  
-- 🔗 **GitHub:** [https://github.com/BOMMALAJAGADEESHA](https://github.com/BOMMALAJAGADEESHA)
-- 🔗 **LinkedIn**: linkedin.com/in/jagadeeshabommala 
+## 🌐 Connect With Me  
+📧 **Email:** [jagadeeshabommala@gmail.com](mailto:jagadeeshabommala@gmail.com)  
+🔗 **GitHub:** [github.com/BOMMALAJAGADEESHA](https://github.com/BOMMALAJAGADEESHA)  
+🔗 **LinkedIn:** [linkedin.com/in/jagadeeshabommala](https://linkedin.com/in/jagadeeshabommala)  
 
 ---
+
+⭐ *“Strive not to be a success, but rather to be of value.” – Albert Einstein*  
